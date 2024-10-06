@@ -6,5 +6,5 @@
 
 <p align="center">
  <a href="https://zoezo.dev/" alt="Zoey's portfolio" target="_blank"><img src="https://github.com/MsZoezo/MsZoezo/raw/main/images/portfollio.png" height="60" /></a>
- <a href="https://zoezo.dev/blog" alt="Zoey's blog" target="_blank"><img src="https://github.com/MsZoezo/MsZoezo/raw/main/images/blog.png" height="60" /></a>
+<!--  <a href="https://zoezo.dev/blog" alt="Zoey's blog" target="_blank"><img src="https://github.com/MsZoezo/MsZoezo/raw/main/images/blog.png" height="60" /></a> -->
 </p>
